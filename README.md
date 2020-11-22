@@ -1,6 +1,8 @@
 # calcbot
 
-Source code for discord calculator bot. 
+Source code for discord calculator bot.
+
+Requires node.js to run
 
 Current function includes:
 
