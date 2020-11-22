@@ -8,4 +8,4 @@ Current function includes:
 
 https://twitter.com/hiro66665510/status/1330169059338575882
 
-![alt text](https://pbs.twimg.com/media/EnW0DvSXUAEcfyC?format=png&name=small)
+![image](https://pbs.twimg.com/media/EnW0DvSXUAEcfyC?format=png&name=small)
